@@ -1,0 +1,39 @@
+.body{
+  margin:0 ;
+  min-height:100vh ;
+}
+#parts{
+width:200px ;
+height:100px ;
+margin:10px ;
+}
+#part1{
+border-style: dashed solid; 
+border-color: brown; 
+background-color: beige;
+}
+#part2{
+  border-style: none double dotted;
+  border-width: 0px 10px;
+  background-color: aqua;
+  background-color: blue;
+}
+#part3{
+border-style: outset groove ridge dotted;
+border-color: black gray gold red;
+background-color: bisque;
+border-width: 12px;
+}
+#part4{
+border-style: dashed solid none;
+border-color: blue yellow teal;
+border-width: 10px;
+background-color: aqua;
+}
+#khoshi{
+  width: 100px;
+  height: 100px;
+  background-color: blueviolet;
+  border: solid;
+  border-radius: 50%;
+}
